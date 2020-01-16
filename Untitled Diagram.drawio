@@ -1,1 +1,124 @@
-<mxfile host="www.draw.io" modified="2020-01-16T13:16:42.401Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" version="12.5.4" etag="WCEirWwQZKMExBJmDPhO" type="github"><diagram id="4bXTv4JExv3Pb1ZK5-rK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-16T13:25:38.426Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="BeuM6i40cyeFCW5tvuXJ" version="12.5.4" type="github">
+  <diagram id="4bXTv4JExv3Pb1ZK5-rK" name="Page-1">
+    <mxGraphModel dx="932" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTfN_o7muEshdPtxyXbv-1" target="VTfN_o7muEshdPtxyXbv-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-1" value="Koupě předmětu (sýr Eidam)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VTfN_o7muEshdPtxyXbv-2" target="VTfN_o7muEshdPtxyXbv-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="130" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-2" value="\koupě Eidam p 10&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTfN_o7muEshdPtxyXbv-5" target="VTfN_o7muEshdPtxyXbv-31">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-5" value="nový řádek v databázy (insert X, XXX)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTfN_o7muEshdPtxyXbv-6" target="VTfN_o7muEshdPtxyXbv-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-6" value="vyjmutí předmětu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTfN_o7muEshdPtxyXbv-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="530" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-7" value="\t &amp;nbsp;Eidam p X" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="500" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VTfN_o7muEshdPtxyXbv-14" target="VTfN_o7muEshdPtxyXbv-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTfN_o7muEshdPtxyXbv-10" target="VTfN_o7muEshdPtxyXbv-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-10" value="Otevření databáze pro Eidam a získání p" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="500" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VTfN_o7muEshdPtxyXbv-12" target="VTfN_o7muEshdPtxyXbv-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="660" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VTfN_o7muEshdPtxyXbv-12" target="VTfN_o7muEshdPtxyXbv-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="770" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-12" value="if &amp;nbsp;Eidam p == 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="600" width="120" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-14" value="Eidam p = Eidam p- X" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="500" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-16" value="ADD Eidam to Shoplist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="630" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-18" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="630" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-19" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="740" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-22" value="UPDATE Eidam p to Eidam p" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="740" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTfN_o7muEshdPtxyXbv-23" target="VTfN_o7muEshdPtxyXbv-24">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-23" value="\shoplist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTfN_o7muEshdPtxyXbv-24" target="VTfN_o7muEshdPtxyXbv-26">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-24" value="Access Databáze Shoplist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTfN_o7muEshdPtxyXbv-26" target="VTfN_o7muEshdPtxyXbv-29">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-26" value="Take All items out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="290" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-29" value="Send messege with all items" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="290" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTfN_o7muEshdPtxyXbv-31" target="VTfN_o7muEshdPtxyXbv-35">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VTfN_o7muEshdPtxyXbv-31" target="VTfN_o7muEshdPtxyXbv-37">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-31" value="if &amp;nbsp;Eidam exists in Shoplist" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-33" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-34" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-35" value="Delete from Shoplist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="VTfN_o7muEshdPtxyXbv-37" value="Do nothing&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
