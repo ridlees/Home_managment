@@ -18,10 +18,12 @@ def Dictionary(page):
     daily = newDictionary["daily"]
     today = daily[0]["temp"]["min"]
     tomorrow = daily[1]["temp"]["min"]
-    if today <= 5.0 or tomorrow <= 5.0:
-        return("chladno dnes nebo zítra, odnes rostliny dovnitř")
+    if today <= 5.0:
+        return("chladno je dnes, odnes rostliny dovnitř")
+    elif tomorrow <= 5.0:
+        return("chladno je zítra, odnes rostliny dovnitř")
     else:
-        return("teplo")
+        return("teplo - jahody mohou být na balkóně")
 
 
 
