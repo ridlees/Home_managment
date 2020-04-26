@@ -2,9 +2,10 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 import re
+import api
 
 def Player(video):
-    chromedriver = "/Users/martinkodada/Documents/chromedriver"
+    chromedriver = api.driver
     driver = webdriver.Chrome(chromedriver)
     driver.get("https://www.youtube.com/")
     time.sleep(2)

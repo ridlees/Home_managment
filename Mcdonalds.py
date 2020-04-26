@@ -2,12 +2,13 @@
 import requests
 from bs4 import BeautifulSoup
 import time
+import driver
 
 URL = 'https://survey.fast-insight.com/mcd/cz/coupon.php'
 URL2 ='https://script.google.com/macros/s/AKfycbxbOwY81lQUa08jX6uyOfu8sJDkuoOJ5qQz_joACzbhue5_6lo/exec'
 headers = {"User-Agent":'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0'}
 proxies = {'http': 'http://159.89.227.145:80', 'https': 'http://35.245.145.147:8080'} #vymyslet, jak je přidat:/
-chromedriver = "/Users/martinkodada/Documents/chromedriver"
+chromedriver = api.driver
 
 def Fries():
     page = requests.post(URL, headers=headers,)
